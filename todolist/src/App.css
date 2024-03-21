@@ -16,8 +16,7 @@
 .create_form input {
   width: 300px;
   padding: 10px;
-  border: 2px solid;
-  border-bottom: none; /* Removing bottom border */
+  border: 2px solid black;
   outline: none;
   margin-bottom: 5px;
   border-radius: 15px 0 0 15px;
@@ -25,6 +24,7 @@
 
 .create_form button {
   padding: 10px;
+  border: 2px solid black;
   background-color: black;
   color: white;
   cursor: pointer;
